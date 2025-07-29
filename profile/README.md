@@ -62,19 +62,7 @@ Ready to build on Moonchain? Follow these steps to connect to our Testnet and st
 *   [Node.js](https://nodejs.org/) (v18+)
 *   [Foundry](https://getfoundry.sh/) or [Hardhat](https://hardhat.org/)
 
-### Network Details (Testnet)
 
-You can add the Moonchain Testnet to your wallet (e.g., MetaMask) with the following details:
-
-*   **Network Name:** Moonchain Testnet
-*   **RPC URL:** `https://hudson-rpc.mchain.ai`
-*   **Chain ID:** `177888`
-*   **Currency Symbol:** `MCH`
-*   **Block Explorer URL:** `https://hudson-explorer.mchain.ai`
-
-### Testnet Faucet
-
-Get testnet $MCH tokens to start deploying and testing your applications from our official faucet: [faucet.mchain.ai](https://faucet.mchain.ai)
 
 ---
 
