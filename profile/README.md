@@ -13,9 +13,9 @@
   <br />
   <a href="https://explorer.moonchain.com">View Explorer</a>
   ·
-  <a href="https://github.com/mxc-foundation/moonchain-core/issues">Report Bug</a>
+  <a href="https://github.com/JDI-Group/.github/issues">Report Bug</a>
   ·
-  <a href="https://github.com/mxc-foundation/moonchain-core/issues">Request Feature</a>
+  <a href="https://github.com/JDI-Group/.github/issues">Request Feature</a>
 </p>
 
 <p align="center">
