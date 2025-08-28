@@ -8,7 +8,7 @@
   <strong>The ZK-Powered Layer 2 and Value Relayer for the Decentralized AI Economy.</strong>
   <br />
   <br />
-  <a href="https://docs.moonchain.com"><strong>Explore the Docs »</strong></a>
+  <a href="https://docs.mchain.ai"><strong>Explore the Docs »</strong></a>
   <br />
   <br />
   <a href="https://explorer.moonchain.com">View Explorer</a>
